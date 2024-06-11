@@ -4,7 +4,7 @@ const transfer
  = () => {
   return (
     <div>
-
+        Transfer
     </div>
   )
 }
